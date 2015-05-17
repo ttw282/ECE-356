@@ -1,4 +1,4 @@
 # ece356
 Database Project
 
-testing
+Used Java, mySQL, NetBeans, GlassFish/Tomcat server
